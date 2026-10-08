@@ -1,0 +1,26 @@
+{
+    "ui": {
+        "call_complete": "CALL COMPLETE",
+        "outcome_stabilized": "Patient Stabilized",
+        "outcome_deceased": "Patient Deceased",
+        "response_time": "Response Time",
+        "correct_treatments": "Correct Treatments",
+        "incorrect_treatments": "Incorrect Treatments",
+        "transported": "Transported",
+        "payment": "Payment",
+        "xp": "XP",
+        "call_accepted": "Call Accepted",
+        "gps_set": "GPS route set. Head to the scene.",
+        "assess_patient": "Assess Patient",
+        "treat_patient": "Treat Patient",
+        "load_patient": "Load Patient for Transport",
+        "ask_bystander": "Ask \"What happened?\"",
+        "not_ems": "You are not on-duty EMS.",
+        "no_permission": "You do not have permission to do that.",
+        "need_ambulance": "You need to be near a configured ambulance to load the patient.",
+        "patient_delivered": "Patient delivered to %s."
+    },
+    "dispatch": {
+        "header": "EMS DISPATCH"
+    }
+}
